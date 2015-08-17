@@ -20,3 +20,6 @@ Never want it to stop? You gotta give it away
 master branch gittest
 
 gittest dev write
+
+
+削除なんてさせない！
