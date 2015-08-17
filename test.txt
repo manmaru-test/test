@@ -16,3 +16,5 @@ Never want it to stop? You gotta give it away
 ふうかは可愛い
 
 です。
+
+master branch gittest
