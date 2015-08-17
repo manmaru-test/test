@@ -18,3 +18,5 @@ Never want it to stop? You gotta give it away
 です。
 
 master branch gittest
+
+gittest dev write
