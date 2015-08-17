@@ -23,3 +23,6 @@ gittest dev write
 
 
 削除なんてさせない！
+
+
+windows test
