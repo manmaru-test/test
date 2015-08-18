@@ -1,1 +1,1 @@
-開発モジュールdim a as integer;dim b as string;if a > 0 then{b = "hogehoge";}end if
+開発モジュールdim a as integer;dim b as string;if a > 0 then{b = "hogehoge";}
