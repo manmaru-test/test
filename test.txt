@@ -3,3 +3,5 @@
 ふにゃふにゃ
 
 manmami-ya
+
+link to test2.txt
