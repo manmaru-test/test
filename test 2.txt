@@ -1,1 +1,8 @@
 開発モジュール
+
+dim a as integer
+dim b as string
+
+if a > 0 then
+	b = "hogehoge";
+end if
