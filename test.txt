@@ -4,6 +4,7 @@
 
 
 windows-01
+windows-02
 
 
 manmami-ya
